@@ -26,5 +26,14 @@
 |  `dw`  |           delete a word            |
 |  `d$`  |   delete to the end of the line    |
 |  `de`  | Delete including the last charater |
+|  `dd`  |       to delete a whole line       |
+| `2dd`  |        to delete two lines         |
+| `d2w`  |  deletes with the number of words  |
 
 > Pressing just the motion while in Normal mode without an operator will move the cursor as specified.
+
+| Motion |                     Description                      |
+| :----: | :--------------------------------------------------: |
+|  `2w`  |          move the cursor two words forward           |
+|  `3e`  | move the cursor to the end of the third word forward |
+|  `0`   |            move to the start of the line             |
