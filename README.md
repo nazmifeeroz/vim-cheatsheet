@@ -39,6 +39,7 @@
 |  `0`   |            move to the start of the line             |
 
 > Undo command
+
 | Undo |                     Description                      |
 | :----: | :--------------------------------------------------: |
 | u | Undo previous actions. (lowercase u) |
