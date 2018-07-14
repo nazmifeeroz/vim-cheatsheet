@@ -37,3 +37,12 @@
 |  `2w`  |          move the cursor two words forward           |
 |  `3e`  | move the cursor to the end of the third word forward |
 |  `0`   |            move to the start of the line             |
+
+> Undo command
+| Undo |                     Description                      |
+| :----: | :--------------------------------------------------: |
+| u | Undo previous actions. (lowercase u) |
+| U | Undo all the changes on a line. (capital U) |
+| CTLR-R | Undo the undo's |
+
+> The PUT command. `p` to put previously deleted text after the cursor.
