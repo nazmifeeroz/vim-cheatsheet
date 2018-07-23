@@ -46,4 +46,11 @@
 | U | Undo all the changes on a line. (capital U) |
 | CTLR-R | Undo the undo's |
 
-> The PUT command. `p` to put previously deleted text after the cursor.
+> The PUT command. `p` to put previously deleted text after the cursor. `dd` to delete a line. `p` to add the deleted line.
+
+| Replace | Description |
+| :----: | :--------------------------------------------------: |
+| `r` | to replace the character at the cursor with x |
+| `ce` | to change until the end of a word |
+| `c` + motion | used with the same motion as delete |
+
